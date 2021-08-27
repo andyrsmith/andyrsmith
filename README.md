@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=java&style=social)&nbsp;&nbsp;
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyrsmith&hide=jupyter%20notebook,vim%20script,matlab&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyrsmith&hide=jupyter%20notebook,vim%20script,matlab&layout=compact&langs_count=8)
 
 <!--
 **andyrsmith/andyrsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

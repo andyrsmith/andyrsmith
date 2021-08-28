@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-**Languages and Tools:**
+**Languages and Tools That I use:**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![AngularJS](https://img.shields.io/badge/-AngularJS-black?logo=AngularJS&style=social)&nbsp;&nbsp;
+![Vue.Js](https://img.shields.io/badge/-vue.js-black?logo=vue.js&style=social)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
@@ -21,12 +22,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Javascript Games
+- 🌱 I’m currently learning Java and Algorithmns
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Connect with me:
+
+[<img align="left" alt="andyrsmith | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="andyrsmith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="andyrmsith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->

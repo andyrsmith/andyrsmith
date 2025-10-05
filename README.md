@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Javascript Games
-- 🌱 I’m currently learning Java and Algorithms
 - 💬 Ask me about Web Development, Chess, or something completely different
 
 **Languages and Tools That I use:**
